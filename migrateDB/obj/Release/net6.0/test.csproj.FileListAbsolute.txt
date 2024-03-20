@@ -1,0 +1,219 @@
+D:\temp\test\test\test\bin\Release\net6.0\test.exe
+D:\temp\test\test\test\bin\Release\net6.0\test.deps.json
+D:\temp\test\test\test\bin\Release\net6.0\test.runtimeconfig.json
+D:\temp\test\test\test\bin\Release\net6.0\test.dll
+D:\temp\test\test\test\bin\Release\net6.0\test.pdb
+D:\temp\test\test\test\bin\Release\net6.0\Dapper.dll
+D:\temp\test\test\test\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\temp\test\test\test\bin\Release\net6.0\Oracle.ManagedDataAccess.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.DirectoryServices.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Drawing.Common.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Security.Permissions.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\temp\test\test\test\obj\Release\net6.0\test.csproj.AssemblyReference.cache
+D:\temp\test\test\test\obj\Release\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\test\test\test\obj\Release\net6.0\test.AssemblyInfoInputs.cache
+D:\temp\test\test\test\obj\Release\net6.0\test.AssemblyInfo.cs
+D:\temp\test\test\test\obj\Release\net6.0\test.csproj.CoreCompileInputs.cache
+D:\temp\test\test\test\obj\Release\net6.0\test.csproj.CopyComplete
+D:\temp\test\test\test\obj\Release\net6.0\test.dll
+D:\temp\test\test\test\obj\Release\net6.0\refint\test.dll
+D:\temp\test\test\test\obj\Release\net6.0\test.pdb
+D:\temp\test\test\test\obj\Release\net6.0\test.genruntimeconfig.cache
+D:\temp\test\test\test\obj\Release\net6.0\ref\test.dll
+D:\temp\test\test\test\bin\Release\net6.0\Google.Protobuf.dll
+D:\temp\test\test\test\bin\Release\net6.0\K4os.Compression.LZ4.dll
+D:\temp\test\test\test\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\temp\test\test\test\bin\Release\net6.0\K4os.Hash.xxHash.dll
+D:\temp\test\test\test\bin\Release\net6.0\MySql.Data.dll
+D:\temp\test\test\test\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.IO.Pipelines.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\temp\test\test\test\bin\Release\net6.0\System.Text.Json.dll
+D:\temp\test\test\test\bin\Release\net6.0\ZstdSharp.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\temp\test\test\test\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\test.exe
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\test.deps.json
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\test.runtimeconfig.json
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\test.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\test.pdb
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\CsvHelper.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\Dapper.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\Google.Protobuf.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\K4os.Compression.LZ4.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\K4os.Hash.xxHash.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\MySql.Data.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\Oracle.ManagedDataAccess.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.DirectoryServices.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Drawing.Common.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.IO.Pipelines.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Security.Permissions.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Text.Json.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\ZstdSharp.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IDB\Project\PGbank\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.csproj.AssemblyReference.cache
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.AssemblyInfoInputs.cache
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.AssemblyInfo.cs
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.csproj.CoreCompileInputs.cache
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.csproj.CopyComplete
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.dll
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\refint\test.dll
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.pdb
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\test.genruntimeconfig.cache
+D:\IDB\Project\PGbank\test\test\obj\Release\net6.0\ref\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\test.exe
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\test.deps.json
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\test.runtimeconfig.json
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\test.pdb
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\CsvHelper.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\Dapper.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\Google.Protobuf.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\K4os.Compression.LZ4.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\K4os.Hash.xxHash.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\MySql.Data.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\Oracle.ManagedDataAccess.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.DirectoryServices.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.IO.Pipelines.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Security.Permissions.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Text.Json.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\ZstdSharp.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.csproj.AssemblyReference.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.AssemblyInfoInputs.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.AssemblyInfo.cs
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.csproj.CopyComplete
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\refint\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.pdb
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\test.genruntimeconfig.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\test\test\obj\Release\net6.0\ref\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\test.exe
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\test.deps.json
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\test.runtimeconfig.json
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\test.pdb
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\CsvHelper.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\Dapper.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\Google.Protobuf.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\K4os.Compression.LZ4.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\K4os.Hash.xxHash.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\MySql.Data.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\Oracle.ManagedDataAccess.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\BouncyCastle.Crypto.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.DirectoryServices.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.IO.Pipelines.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Security.Permissions.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Text.Json.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\ZstdSharp.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.csproj.AssemblyReference.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.AssemblyInfoInputs.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.AssemblyInfo.cs
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.csproj.CopyComplete
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\refint\test.dll
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.pdb
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\test.genruntimeconfig.cache
+D:\WorkSpace\WorkSpace\CRM PGBank\test\migrate\test\obj\Release\net6.0\ref\test.dll
